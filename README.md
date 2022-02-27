@@ -14,5 +14,5 @@ Implementação de estudo de um "jogo da cobrinha" com Java.
 
 Nessa seção serão colocados os links dos materiais.
 
-* Usando "javac" com parâmetro "-d" [https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html#:~:text=By%20default%2C%20%22javac%22%20will,file%20into%20the%20specified%20directory.](https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html#:~:text=By%20default%2C%20%22javac%22%20will,file%20into%20the%20specified%20directory.)
+* Usando "javac" com parâmetro "-d" [https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html](https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html)
 * Nomes de pacotes [https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)
