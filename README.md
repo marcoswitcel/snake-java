@@ -12,7 +12,8 @@ Implementação de estudo de um "jogo da cobrinha" com Java.
 
 ## Referências
 
-Nessa seção serão colocados os links dos materiais.
+Nessa seção serão colocados os links dos materiais que podem ser úteis para a compreensão.
 
 * Usando "javac" com parâmetro "-d" [https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html](https://www.herongyang.com/Java-Tools/javac-Option-d-Specifying-Output-Directory.html)
 * Nomes de pacotes [https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)
+* Arquivo `.gitignore` [https://git-scm.com/docs/gitignore](https://git-scm.com/docs/gitignore), [https://www.atlassian.com/br/git/tutorials/saving-changes/gitignore](https://www.atlassian.com/br/git/tutorials/saving-changes/gitignore)
